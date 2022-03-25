@@ -1,0 +1,3 @@
+wallbreaker - powerfull unit week agenst units, strong agenst walls. Uses fortress model but modified, shoots rockets to deal damage.
+
+//DONE AS "CELL"// Sniper - Long range unit, stands 25 blocks away with medium damage. outranges everything but turrets that outrange 25 blocks. Can be countered by the player simply shooting it.
